@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CF0B11CA2C4329E5008C5C6C /* DigioStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF0B11C92C4329E5008C5C6C /* DigioStore.swift */; };
 		CF1AC51B2C41A28800388BEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF1AC51A2C41A28800388BEA /* AppDelegate.swift */; };
 		CF1AC5242C41A28A00388BEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF1AC5232C41A28A00388BEA /* Assets.xcassets */; };
 		CF1AC5272C41A28A00388BEA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CF1AC5262C41A28A00388BEA /* Base */; };
@@ -31,7 +30,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CF0B11C92C4329E5008C5C6C /* DigioStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigioStore.swift; sourceTree = "<group>"; };
 		CF1AC5172C41A28800388BEA /* Movietrending.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movietrending.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF1AC51A2C41A28800388BEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CF1AC5232C41A28A00388BEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -175,7 +173,6 @@
 			isa = PBXGroup;
 			children = (
 				CF1AC5432C41E19400388BEA /* TrendingMovieModel.swift */,
-				CF0B11C92C4329E5008C5C6C /* DigioStore.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -286,7 +283,6 @@
 				CF1AC51B2C41A28800388BEA /* AppDelegate.swift in Sources */,
 				CF1AC53B2C41C3DB00388BEA /* MainViewController+TableView.swift in Sources */,
 				CF1AC54D2C42269300388BEA /* UIViewExtensions.swift in Sources */,
-				CF0B11CA2C4329E5008C5C6C /* DigioStore.swift in Sources */,
 				CF1AC54F2C422C3200388BEA /* MovieTableCellViewModel.swift in Sources */,
 				CF1AC5312C41A75400388BEA /* MainViewController.swift in Sources */,
 				CF1AC55B2C4245E100388BEA /* DetailsMovieViewModel.swift in Sources */,
